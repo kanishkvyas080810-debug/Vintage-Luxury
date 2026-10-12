@@ -1,0 +1,8 @@
+{
+  "name": "Vintage Legacy — Heavyweight Streetwear",
+  "description": "240 GSM heavy combed cotton streetwear catalog, drop-shoulder silhouettes, raw finishes, and signature archive pieces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
